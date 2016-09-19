@@ -25,14 +25,14 @@ body.fh5co-offcanvas {
 }
 
 a {
-  color: #FCC72C;
+  color: #26a69a;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s;
 }
 a:hover {
   text-decoration: none !important;
-  color: #FCC72C !important;
+  color: #26a69a !important;
 }
 
 p, ul, ol {
@@ -55,17 +55,17 @@ figure {
 
 ::-webkit-selection {
   color: #fcfcfc;
-  background: #FCC72C;
+  background: #26a69a;
 }
 
 ::-moz-selection {
   color: #fcfcfc;
-  background: #FCC72C;
+  background: #26a69a;
 }
 
 ::selection {
   color: #fcfcfc;
-  background: #FCC72C;
+  background: #26a69a;
 }
 
 #fh5co-header {
@@ -338,7 +338,7 @@ figure {
 }
 
 #fh5co-primary-menu > li > ul li.active > a {
-  color: #FCC72C !important;
+  color: #26a69a !important;
 }
 #fh5co-primary-menu > li > .sf-with-ul:after {
   border: none !important;
@@ -457,7 +457,7 @@ figure {
   background: none;
 }
 #fh5co-primary-menu .fh5co-sub-menu a:hover {
-  color: #FCC72C !important;
+  color: #26a69a !important;
 }
 
 #fh5co-work-section,
@@ -493,7 +493,7 @@ figure {
   width: 100px;
   margin-left: -50px;
   height: 2px;
-  background: #FCC72C;
+  background: #26a69a;
 }
 .heading-section h3 {
   font-size: 30px;
@@ -567,7 +567,7 @@ figure {
 }
 .services span i {
   font-size: 50px;
-  color: #fcc72c;
+  color: #26a69a;
 }
 .services h3 {
   font-size: 20px;
@@ -620,7 +620,7 @@ figure {
 }
 #fh5co-services .fh5co-icon i {
   font-size: 200px;
-  color: #FCC72C;
+  color: #26a69a;
 }
 @media screen and (max-width: 768px) {
   #fh5co-services .fh5co-icon i {
@@ -764,7 +764,7 @@ figure {
   color: rgba(0, 0, 0, 0.3);
 }
 .fh5co-blog .image-popup span.comment a i {
-  color: #FCC72C;
+  color: #26a69a;
   padding-left: 7px;
 }
 .fh5co-blog .image-popup h3 {
@@ -807,7 +807,7 @@ figure {
 
 .fh5co-social-icons > a {
   padding: 4px 10px;
-  color: #FCC72C;
+  color: #26a69a;
 }
 .fh5co-social-icons > a i {
   font-size: 26px;
@@ -845,14 +845,14 @@ figure {
   transition: 0.3s;
 }
 .btn.btn-primary {
-  background: #FCC72C;
+  background: #26a69a;
   color: #fff;
   border: none !important;
   border: 2px solid transparent !important;
 }
 .btn.btn-primary:hover, .btn.btn-primary:active, .btn.btn-primary:focus {
   box-shadow: none;
-  background: #FCC72C;
+  background: #26a69a;
   color: #fff !important;
 }
 .btn:hover, .btn:active, .btn:focus {
@@ -925,14 +925,14 @@ figure {
   color: rgba(255, 255, 255, 0.4);
 }
 #offcanvas-menu ul li a:hover {
-  color: #FCC72C;
+  color: #26a69a;
 }
 #offcanvas-menu ul li > .fh5co-sub-menu {
   margin-top: 9px;
   padding-left: 20px;
 }
 #offcanvas-menu ul li.active > a {
-  color: #FCC72C;
+  color: #26a69a;
 }
 #offcanvas-menu ul .fh5co-sub-menu {
   display: block !important;
