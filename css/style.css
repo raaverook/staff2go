@@ -146,7 +146,7 @@ figure {
 }
 @media screen and (max-width: 768px) {
   .fh5co-cover .desc {
-  /* addon top et savoir plus */
+  /* addon top et savoir plus et body*/
     top: 30%;
     padding-left: 15px;
     padding-right: 15px;
@@ -154,6 +154,7 @@ figure {
   #savoirplus {
 	display:none;
   }
+ 
 }
 .fh5co-cover .desc h2 {
   color: #fff;
@@ -165,6 +166,10 @@ figure {
   .fh5co-cover .desc h2 {
     font-size: 40px;
   }
+  /* add span */
+  .fh5co-cover .desc span {
+  line-height: 1.6;
+}
 }
 .fh5co-cover .desc span {
   display: block;
