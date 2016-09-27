@@ -82,7 +82,8 @@ figure {
 @media screen and (max-width: 768px) {
   .fh5co-cover,
   .fh5co-hero {
-    height: 700px;
+   /*  height: 700px; */
+     height: 80rem; 
   }
 }
 .fh5co-cover.fh5co-hero-2,
@@ -145,8 +146,13 @@ figure {
 }
 @media screen and (max-width: 768px) {
   .fh5co-cover .desc {
+  /* addon top et savoir plus */
+    top: 30%;
     padding-left: 15px;
     padding-right: 15px;
+  }
+  #savoirplus {
+	display:none;
   }
 }
 .fh5co-cover .desc h2 {
