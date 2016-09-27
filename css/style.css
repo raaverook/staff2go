@@ -147,7 +147,7 @@ figure {
 @media screen and (max-width: 768px) {
   .fh5co-cover .desc {
   /* addon top et savoir plus et body*/
-    top: 25%;
+    top: 30%;
     padding-left: 15px;
     padding-right: 15px;
   }
@@ -164,7 +164,8 @@ figure {
 }
 @media screen and (max-width: 768px) {
   .fh5co-cover .desc h2 {
-    font-size: 40px;
+  /* modif here */
+    font-size: 30px;
   }
 }
 .fh5co-cover .desc span {
